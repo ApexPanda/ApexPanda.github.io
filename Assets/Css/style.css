@@ -1,0 +1,79 @@
+body {
+    background-image: url(https://cdn.pixabay.com/photo/2015/01/31/05/05/background-618226_1280.png);
+}
+
+#header {
+    border-bottom: whitesmoke solid 5px;
+    color: black;
+    height: 85px;
+}
+
+#name {
+    background-color: #ef666c;
+    color: white;
+    font-family: 'Pacifico', cursive;
+    font-size: x-large;
+}
+
+.links {
+    text-align: right;
+    margin-top: 55px;
+    color: #f58b6b;
+}
+
+.aboutLink {
+    color:white;
+}
+
+.portfolioLink {
+    color: white;
+}
+
+.contactLink {
+    color: white;
+}
+
+a:not([href]):not([tabindex]) {
+    color: white;
+    text-decoration: none;
+}
+
+.aboutBox {
+    background-color: white;
+    height: 400px;
+}
+
+.undecided {
+    background-color: white;
+}
+
+.skills {
+    background-color: white;
+    height: 80px;
+}
+
+.emptyRow {
+    height: 20px;
+}
+
+.slides {
+    margin-left: 94px;
+}
+
+.emptyRowPortTop {
+    height: 70px;
+}
+
+.emptyRowPort {
+    height: 100px;
+}
+
+.contactHeader {
+    color: white;
+}
+
+.btn-primary {
+    color: #000;
+    background-color: #ffffff;
+    border-color: #010a15;
+}
