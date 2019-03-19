@@ -78,6 +78,3 @@ a:not([href]):not([tabindex]) {
     border-color: #010a15;
 }
 
-.description {
-    color: black;
-}
